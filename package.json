@@ -1,5 +1,5 @@
 {
-  "name": "@bhouston/common-tools",
+  "name": "@bhouston/common-utilities",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
