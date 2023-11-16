@@ -13,7 +13,7 @@ export const urlBuilder = ({
   host,
   port,
   path,
-  parameters
+  parameters,
 }: URLBuilderProps) => {
   let url = `${protocol ?? 'https'}://${host}`;
 

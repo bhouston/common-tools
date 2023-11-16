@@ -6,7 +6,8 @@
     "unused-imports",
     "simple-import-sort",
     "prettier",
-    "import"
+    "import",
+    "promise"
   ],
   "extends": [
     "eslint:recommended",

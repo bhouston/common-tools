@@ -44,6 +44,6 @@ export const fetch2 = async (args: FetchArgs) => {
   return await fetch(url, {
     method,
     headers,
-    body
+    body,
   });
 };
